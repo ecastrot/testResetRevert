@@ -9,5 +9,6 @@ public class Principal {
 		System.out.println("Cuarto cambio en branch[second]");
 		System.out.println("Otra cosa paso en master");
 		System.out.println("Cosa 1 paso en master");
+		System.out.println("Cosa 2 paso en master");
 	}
 }
