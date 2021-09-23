@@ -13,5 +13,6 @@ public class Principal {
 		System.out.println("Cosa 3 paso en master");
 		System.out.println("Cosa 4 paso en master");
 		System.out.println("Cosa 6 paso en master");
+		System.out.println("Linea de conflicto1");
 	}
 }
