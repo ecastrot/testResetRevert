@@ -16,5 +16,6 @@ public class Principal {
     	System.out.println("Cambio ramas Git");
 		System.out.println("Linea de conflicto2");
 		System.out.println("Linea de conflicto1");
+		System.out.println("Linea de Diego");
 	}
 }
