@@ -22,6 +22,7 @@ public class Principal {
 		System.out.println("Master sigue");
 		// -------------------------------------
 		System.out.println("Nueva linea 1");
+		System.out.println("1 + 1 = 2");
 		System.out.println("Nueva linea 2");
 		System.out.println("1 - 1 = 0");
 	}
