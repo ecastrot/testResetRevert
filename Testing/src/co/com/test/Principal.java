@@ -20,5 +20,7 @@ public class Principal {
 		System.out.println("Implementando el login");
 		System.out.println("Master continua");
 		System.out.println("Master sigue");
+		// -------------------------------------
+		System.out.println("Nueva linea 1");
 	}
 }
