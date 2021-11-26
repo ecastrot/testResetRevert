@@ -17,6 +17,7 @@ public class Principal {
 		System.out.println("Linea de conflicto2");
 		System.out.println("Linea de conflicto1");
 		System.out.println("Linea de Diego");
+		System.out.println("Implementando el login");
 		System.out.println("Master continua");
 		System.out.println("Master sigue");
 	}
